@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-basics/static/css/main.caba66b9.css",
+    "main.js": "/frontend-basics/static/js/main.98062f9c.js",
+    "index.html": "/frontend-basics/index.html",
+    "main.caba66b9.css.map": "/frontend-basics/static/css/main.caba66b9.css.map",
+    "main.98062f9c.js.map": "/frontend-basics/static/js/main.98062f9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caba66b9.css",
+    "static/js/main.98062f9c.js"
+  ]
+}
