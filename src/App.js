@@ -8,8 +8,8 @@ function App() {
     <>
       <Navbar />
       <Routes>
-        <Route path="/" exact element={<HomePage />} />
-        <Route path="/goods" element={<GoodsPage />} />
+        <Route path="/frontend-basics-react/" exact element={<HomePage />} />
+        <Route path="/frontend-basics-react/goods" element={<GoodsPage />} />
       </Routes>
     </>
   );
